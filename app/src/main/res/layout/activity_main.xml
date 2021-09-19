@@ -1,59 +1,57 @@
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
-        android:text="Anak 1"
-        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="#8BC34A"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:text="Anak 1"
+        android:textSize="30sp" />
 
     <TextView
-        android:text="Anak 2"
-        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="#F44336"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:text="Anak 2"
+        android:textSize="30sp" />
 
     <TextView
-        android:text="Anak 3"
-        android:textSize="30sp"
-        android:background="#CDDC39"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
-
+        android:layout_height="wrap_content"
+        android:background="#CDDC39"
+        android:text="Anak 3"
+        android:textSize="30sp" />
 
     <LinearLayout
-        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:orientation="horizontal"
         tools:context=".MainActivity">
 
         <TextView
-            android:text="Anak 4"
-            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="#6BA5D3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:text="Anak 4"
+            android:textSize="30sp"/>
 
         <TextView
-            android:text="Anak 5"
-            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="#94709A"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:text="Anak 5"
+            android:textSize="30sp"/>
 
         <TextView
-            android:text="Anak 6"
-            android:textSize="30sp"
-            android:background="#39DCAE"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-    </LinearLayout>
+            android:layout_height="wrap_content"
+            android:background="#39DCAE"
+            android:text="Anak 6"
+            android:textSize="30sp"/>
+</LinearLayout>
 </LinearLayout>
