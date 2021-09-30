@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".ActivityHalaman4"
+            android:exported="true" />
+        <activity
+            android:name=".ActivityHalaman3"
+            android:exported="true" />
+        <activity
+            android:name=".ActivityHalaman2"
+            android:exported="true" />
+        <activity
+            android:name=".ActivityHalaman1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

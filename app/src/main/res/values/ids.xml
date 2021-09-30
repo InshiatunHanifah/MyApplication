@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_halaman1" type="id"/>
+    <item name="iv_halaman2" type="id"/>
+    <item name="iv_halaman3" type="id"/>
+    <item name="iv_halaman4" type="id"/>
+</resources>

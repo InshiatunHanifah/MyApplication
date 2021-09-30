@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="pindah_activity_1">pindah Activity 1</string>
+    <string name="pindah_activity_2">pindah Activity 2</string>
+    <string name="pindah_activity_3">pindah Activity 3</string>
+    <string name="pindah_activity_4">pindah Activity 4</string>
 </resources>
